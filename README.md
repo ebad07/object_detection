@@ -1,6 +1,6 @@
-In this project we have included object detection model using Tensorflow Object Detection API
-The project was completed in Google Colaboratory
-We have installed the necessary libraries to run in Colab
+In this project we have included object detection model using Tensorflow Object Detection API.
+The project was completed in Google Colaboratory.
+We have installed the necessary libraries to run in Colab.
 We have used pycocotools which is a Python API that assists in loading, parsing and visualizing the annotations in COCO.
 COCO is a large image dataset designed for object detection, segmentation, person keypoints detection, stuff segmentation, and caption generation.
 Also wehave used Protobuf(a.k.a., protobuf) which are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
